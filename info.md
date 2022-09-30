@@ -39,3 +39,7 @@
 
 ### Слияние веток
 * git merge <название_ветки>
+
+Все у меня ребенок проснулся [Вот здесь можно почитать про Git](https://git-scm.com/book/ru/v2), а [вот здесь про MD ](https://learn.microsoft.com/ru-ru/contribute/markdown-reference)
+
+![Если вы видите этот текст то что то пошло не так](https://i.pinimg.com/originals/6d/49/36/6d493612ca02789fe7e29062684afff0.jpg "Бууум")
